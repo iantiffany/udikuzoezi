@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://epeijeiti.coatsandkahvi.com/sitemap.xml
